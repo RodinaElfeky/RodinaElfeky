@@ -6,10 +6,10 @@
 <hr>
 <h1>💫 About Me:</h1>
 <br>
-- 👨🏼‍🎓 Graduated from **Faculty of Business, Alexandria University MIS Department**  
-- 👨‍💻 Passionate about **Web Development and Business**  
-- 🌱 I’m currently learning **Full Stack .NET Development @ ITI**  
-- 📫 How to reach me: **rodina.elfeky228@gmail.com**
+<p>- 👨🏼‍🎓 Graduated From <b>Faculty Of Business, Alexandria University MIS Department</b><br>
+- 👨‍💻 Passionate about <b>Web Development and Business</b><br>
+- 🌱 I’m currently learning <b>Full Stack .Net Development @ITI</b><br>
+- 📫 How to reach me <b>rodina.elfeky228@gmail.com</b></p>
 <br>
 <br>
 <h1>🚀 Languages and Tools I Use</h1>
