@@ -4,7 +4,7 @@
 <h3 align="center">Software Engineer | Full Stack .Net Developer</h3>
 <br>
 <hr>
-<h2>💫 About Me:</h2>
+<h1>💫 About Me:</h1>
 <br>
 <p>- 👨🏼‍🎓Graduated From **Faculty Of Business, Alexandria University MIS Department**
 <br>-👨‍💻Passionate about **Web Development and Business**<br>- 🌱 I’m currently learning **Full Stack .Net Development @ITI**<br>- 📫 How to reach me **rodina.elfeky228@gmail.com**</p>
@@ -24,6 +24,9 @@
 <br>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/rodina-elfeky-466227240" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodinaElfeky&layout=compact)
+
 
 
 
