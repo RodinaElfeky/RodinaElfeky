@@ -18,7 +18,7 @@
 
 
 # 💫 About Me:
-Graduated From Faculty of Business, Alexandria University, MIS department<br>Passionate about Web Development and Business<br>Currently learning Full Stack .Net Development<br>How To Reach Me: rodina.elfeky228@gmail.com
+👨🏼‍🎓Graduated From Faculty of Business, Alexandria University, MIS department<br>Passionate about Web Development and Business<br>Currently learning Full Stack .Net Development<br>How To Reach Me: rodina.elfeky228@gmail.com
 
 
 # 💻 Tech Stack:
@@ -35,3 +35,5 @@ Graduated From Faculty of Business, Alexandria University, MIS department<br>Pas
 [![](https://visitcount.itsvg.in/api?id=RodinaElfeky&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnk5Mmt2ZHNqdXcxNDB2Y3dibXg0OGJndnFsNTFuaHR6cnZjdGppaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nD0DiLJXj9c5Tg7QFk/giphy.gif
