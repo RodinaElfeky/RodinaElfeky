@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodina Elfeky</h1>
 <hr>
 <br>
-<h3 align="center">Software Engineer | Full Stack .Net Developer</h3>
+<h2 align="center">Software Engineer | Full Stack .Net Developer</h2>
 <br>
 <hr>
 <h1>💫 About Me:</h1>
@@ -9,7 +9,7 @@
 <p>- 👨🏼‍🎓Graduated From **Faculty Of Business, Alexandria University MIS Department**
 <br>-👨‍💻Passionate about **Web Development and Business**<br>- 🌱 I’m currently learning **Full Stack .Net Development @ITI**<br>- 📫 How to reach me **rodina.elfeky228@gmail.com**</p>
 <br>
-<h2>🚀 Languages and Tools I Use</h2>
+<h1>🚀 Languages and Tools I Use</h1>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
