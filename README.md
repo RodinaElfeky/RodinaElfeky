@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Rodina Elfeky</h1>
 <p>Software Engineer </p>
-# 💫 About Me:
+<h2>💫 About Me:</h2>
 👨🏼‍🎓Graduated From Faculty of Business, Alexandria University, MIS department<br>👨‍💻Passionate about Web Development and Business<br>🌱Currently learning Full Stack .Net Development<br>📫How To Reach Me: rodina.elfeky228@gmail.com
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
