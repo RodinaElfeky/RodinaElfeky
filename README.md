@@ -1,8 +1,8 @@
-<h1 align="center" style="font-size: 10em; font-weight: 700;">
+<h1 align="center" style="font-size: 50em; font-weight: 700;">
   Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="waving hand" style="vertical-align:middle;" />, I'm Rodina Elfeky
 </h1>
 
-<p align="center" style="font-size: 5em; font-weight: 500; color:#2f4f4f;">
+<p align="center" style="font-size: 25em; font-weight: 500; color:#2f4f4f;">
   Software Engineer
 </p>
 
