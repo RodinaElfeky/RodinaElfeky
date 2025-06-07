@@ -1,6 +1,6 @@
-<h1 align="center" style="font-size: 3.5em; font-weight: 700;">
-  Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="waving hand" style="vertical-align:middle;" />, I'm Your Name
-</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="Coding Animation" width="300" />
+</p>
 
 <p align="center" style="font-size: 1.5em; font-weight: 500; color:#2f4f4f;">
   Full-Stack .NET Developer | MIS Graduate | Learning at ITI
@@ -64,10 +64,10 @@
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="mailto:your.email@example.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:rodina.elfeky228@gmail.com" target="_blank" rel="noopener noreferrer">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&color=D14836" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/rodinaelfeky" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&color=0A66C2" />
   </a>
 </p>
