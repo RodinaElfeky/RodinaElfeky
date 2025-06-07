@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" style="font-size: 1.5em; font-weight: 500; color:#2f4f4f;">
-  Full-Stack .NET Developer | MIS Graduate | Learning at ITI
+  Software Engineer
 </p>
 
 
