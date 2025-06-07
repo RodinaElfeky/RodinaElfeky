@@ -1,75 +1,76 @@
-<h1 align="center" style="font-size: 4em;">
-  Hi there <img src="https://github.com/Ileriayo/markdown-badges/raw/main/svg/hi.svg" width="30px" alt="wave"/> I'm [Your Name]
+<!-- Title with waving hand emoji -->
+<h1 align="center" style="font-size: 3.5em; font-weight: 700;">
+  Hello <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="40" alt="👋" style="animation: wave 2s infinite; transform-origin: 70% 70%; display: inline-block;" />, I'm [Your Name]
 </h1>
 
-<p align="center" style="font-size: 1.5em; font-weight: 600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&pause=1000&color=2F4F4F&center=true&vCenter=true&width=500&height=50&lines=Full-Stack+.NET+Developer;Building+Robust+Web+Applications;Passionate+MIS+Graduate" alt="Typing SVG" />
+<!-- Typing animation under the name -->
+<p align="center" style="font-size: 1.5em; font-weight: 500; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#2f4f4f;">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&pause=1000&color=2f4f4f&center=true&vCenter=true&width=480&height=40&lines=Full-Stack+.NET+Developer;MIS+Graduate;Currently+Learning+at+ITI" alt="Typing Animation" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🎓 About Me
 
-#### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+- Fresh Graduate from **Faculty of Business, Alexandria University** (English Section)  
+- Major: **Management Information Systems (MIS)**  
+- Currently learning **Full-Stack .NET Development** at **Information Technology Institute (ITI)**  
+- Passionate about building scalable and efficient web applications.
+
+---
+
+## 🛠️ Technologies & Skills
+
+### Programming Languages  
+<p>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&color=107C10" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&color=007396" />
 </p>
 
-#### 🧠 Backend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-6DB33F?style=plastic&logo=.net&logoColor=white" alt="Entity Framework Core"/>
-  <img src="https://img.shields.io/badge/LINQ-512BD4?style=plastic&logo=code&logoColor=white" alt="LINQ"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+### Backend  
+<p>
+  <img alt="ASP.NET MVC" src="https://img.shields.io/badge/ASP.Net_MVC-512BD4?style=flat&logo=dot-net&logoColor=white&color=512BD4" />
+  <img alt="Web API" src="https://img.shields.io/badge/Web_API-6DB33F?style=flat&logo=dot-net&logoColor=white&color=6DB33F" />
+  <img alt="Entity Framework Core" src="https://img.shields.io/badge/Entity_Framework_Core-6DB33F?style=flat&logo=dot-net&logoColor=white&color=6DB33F" />
+  <img alt="LINQ" src="https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dot-net&logoColor=white&color=512BD4" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&color=339933" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white&color=000000" />
 </p>
 
-#### 🎨 Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+### Frontend  
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&color=E34F26" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&color=1572B6" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&color=F7DF1E" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&color=3178C6" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white&color=DD0031" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white&color=7952B3" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&color=38B2AC" />
 </p>
 
-#### 🗃️ Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Entity_Framework-6DB33F?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+### Databases  
+<p>
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white&color=CC2927" />
+  <img alt="Entity Framework ORM" src="https://img.shields.io/badge/Entity_Framework-6DB33F?style=flat&logo=dot-net&logoColor=white&color=6DB33F" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&color=47A248" />
 </p>
 
-#### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+### Tools & Version Control  
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&color=F05032" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&color=181717" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📫 Connect with me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RodinaElfeky&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodinaElfeky&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
-</p>
-
----
-
-### 🌐 Let's Connect
-
-<p align="center">
-  <a href="mailto:rodina.elfeky228@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+<p>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&color=D14836" />
   </a>
-  <a href="(https://www.linkedin.com/in/rodinaelfeky)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&color=0A66C2" />
   </a>
 </p>
 
