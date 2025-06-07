@@ -1,15 +1,14 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="Coding Animation" width="300" />
-</p>
+<h1 align="center" style="font-size: 3.5em; font-weight: 700;">
+  Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="waving hand" style="vertical-align:middle;" />, I'm Your Name
+</h1>
 
 <p align="center" style="font-size: 1.5em; font-weight: 500; color:#2f4f4f;">
   Full-Stack .NET Developer | MIS Graduate | Learning at ITI
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="programming animation" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Developer typing" width="300" />
 </p>
-
 ---
 
 ## 🎓 About Me
