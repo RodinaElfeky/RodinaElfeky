@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 4em;">
-  Hi there <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="40" style="animation: wave 2s infinite; transform-origin: 70% 70%; display: inline-block;" alt="👋"/>, I'm [Rodina Elfeky]
+  Hi there <img src="https://github.com/Ileriayo/markdown-badges/raw/main/svg/hi.svg" width="30px" alt="wave"/> I'm [Your Name]
 </h1>
 
 <p align="center" style="font-size: 1.5em; font-weight: 600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
