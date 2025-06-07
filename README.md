@@ -1,10 +1,10 @@
-<h1 align="center" style="font-size: 100px; ">
+<h1 align="center" >
   Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="waving hand" style="vertical-align:middle;" />, I'm Rodina Elfeky
 </h1>
 
-<p align="center" style="font-size: 100px;  color:#2f4f4f;">
-  Software Engineer
-</p>
+<h4 align="center" >
+  Full Stack Developer
+</h4>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" alt="Terminal Typing" width="350" />
