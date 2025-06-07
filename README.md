@@ -6,9 +6,7 @@
   Full-Stack .NET Developer | MIS Graduate | Learning at ITI
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Laptop Coding" width="300" />
-</p>
+
 ---
 
 ## 🎓 About Me
