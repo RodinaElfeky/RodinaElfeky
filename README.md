@@ -11,13 +11,15 @@
 </p>
 
 ---
-
-## 🎓 About Me
+<p  align="center">
+  ## 🎓 About Me
 
 - Fresh Graduate from **Faculty of Business, Alexandria University** (English Section)  
 - Major: **Management Information Systems (MIS)**  
 - Currently learning **Full-Stack .NET Development** at **Information Technology Institute (ITI)**  
 - Passionate about building scalable and efficient web applications.
+</p>
+
 
 ---
 
@@ -44,7 +46,7 @@
   <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" style="border-radius: 50%; margin: 5px;" />
   <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" style="border-radius: 50%; margin: 5px;" />
   <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="50" style="border-radius: 50%; margin: 5px;" />
-  <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" style="border-radius: 50%; margin: 5px;" />
+<!----  <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" style="border-radius: 50%; margin: 5px;" />
 </p>
 
 ### Databases  
