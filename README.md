@@ -14,9 +14,12 @@
   ## 🎓 About Me
   <br>
 <p  align="center">
-- Fresh Graduate from **Faculty of Business, Alexandria University** (English Section)  
-- Major: **Management Information Systems (MIS)**  
-- Currently learning **Full-Stack .NET Development** at **Information Technology Institute (ITI)**  
+- Fresh Graduate from <bold>Faculty of Business, </bold> Alexandria University (English Section)  
+  <br>
+- Major: <bold> Management Information Systems (MIS) </bold>  
+  <br>
+- Currently learning <bold> Full-Stack .NET Development</bold> at Information Technology Institute (ITI)
+  <br>
 - Passionate about building scalable and efficient web applications.
 </p>
 
