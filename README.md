@@ -10,22 +10,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" alt="Terminal Typing" width="350" />
 </p>
 
----
-  ## 🎓 About Me
-  <br>
-<p  align="center">
-- Fresh Graduate from <bold>Faculty of Business, </bold> Alexandria University (English Section)  
-  <br>
-- Major: <bold> Management Information Systems (MIS) </bold>  
-  <br>
-- Currently learning <bold> Full-Stack .NET Development</bold> at Information Technology Institute (ITI)
-  <br>
-- Passionate about building scalable and efficient web applications.
-</p>
-
-
----
-
 ## 🛠️ Technologies & Skills
 
 ### Programming Languages  
