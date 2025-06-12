@@ -11,9 +11,9 @@
 </p>
 
 ---
-<p  align="center">
   ## 🎓 About Me
-
+  <br>
+<p  align="center">
 - Fresh Graduate from **Faculty of Business, Alexandria University** (English Section)  
 - Major: **Management Information Systems (MIS)**  
 - Currently learning **Full-Stack .NET Development** at **Information Technology Institute (ITI)**  
